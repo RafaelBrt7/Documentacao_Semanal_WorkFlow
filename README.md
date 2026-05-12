@@ -8,6 +8,6 @@
 
 **Aula 4:** Aprofundi na linguagem Javascript, Apredi sobre a armazenamento de diferente tips de dados,A prática se resumiu a criar um código que calcule uma soma de 3 números e dividir-los por 3, achamos uma média do resultado, para criar, usaremos: Int (Para números interios) e double/float (para decimais), let, const e var.
 
-📖 # Explicação
+📖 *Explicação Técnica*
 
 sintaxe e estrutura HTML:
